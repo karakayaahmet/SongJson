@@ -2,38 +2,45 @@
   "songs": [
     {
       "id": 1,
-      "title": "Sevdanın Rengi",
-      "artist": "Murat Boz",
-      "duration": "3:45",
-      "url": "https://example.com/song1.mp3"
+      "title": "Dusmez Kalkmaz",
+      "artist": "Canbay & Wolker",
+      "duration": "2:35",
+      "url": "https://jumpshare.com/share/0eWTa5Ty6Czzqp3CeETp"
     },
     {
       "id": 2,
-      "title": "Haydi Gel İçelim",
-      "artist": "Oğuzhan Koç",
-      "duration": "4:12",
-      "url": "https://example.com/song2.mp3"
+      "title": "Yerinde-Dur",
+      "artist": "Demet Akalın & Sefo",
+      "duration": "2:28",
+      "url": "https://jumpshare.com/share/b2fNTPxQfGEhGXyaoXud"
     },
     {
       "id": 3,
-      "title": "Kalbimin Sahibi",
-      "artist": "Zeynep Bastık",
-      "duration": "3:30",
-      "url": "https://example.com/song3.mp3"
+      "title": "KUFİ",
+      "artist": "Duman",
+      "duration": "4:26",
+      "url": "https://jumpshare.com/share/8UEKRQLLGNk4dDM0HU1H"
     },
     {
       "id": 4,
-      "title": "Sonsuz",
-      "artist": "Teoman",
-      "duration": "5:01",
-      "url": "https://example.com/song4.mp3"
+      "title": "Batık Gemi",
+      "artist": "SEMİCENK",
+      "duration": "4:18",
+      "url": "https://jumpshare.com/share/l6P3C5gGQFcT32JjepmL"
     },
     {
       "id": 5,
-      "title": "Her Şeyi Yak",
-      "artist": "Sezen Aksu",
-      "duration": "4:55",
-      "url": "https://example.com/song5.mp3"
+      "title": "Sen Kaldın",
+      "artist": "SEMİCENK",
+      "duration": "2:32",
+      "url": "https://jumpshare.com/share/LKcpyWTb14W8EW1z3Wp4"
+    },
+    {
+      "id": 6,
+      "title": "Gözlerinden Gözlerine",
+      "artist": "SEMİCENK",
+      "duration": "2:45",
+      "url": "https://jumpshare.com/share/OCTyu0bs2KkRjmCNypML"
     }
   ]
 }
