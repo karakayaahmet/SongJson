@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Sevdanın Rengi",
+      "artist": "Murat Boz",
+      "duration": "3:45",
+      "url": "https://example.com/song1.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Haydi Gel İçelim",
+      "artist": "Oğuzhan Koç",
+      "duration": "4:12",
+      "url": "https://example.com/song2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Kalbimin Sahibi",
+      "artist": "Zeynep Bastık",
+      "duration": "3:30",
+      "url": "https://example.com/song3.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Sonsuz",
+      "artist": "Teoman",
+      "duration": "5:01",
+      "url": "https://example.com/song4.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Her Şeyi Yak",
+      "artist": "Sezen Aksu",
+      "duration": "4:55",
+      "url": "https://example.com/song5.mp3"
+    }
+  ]
+}
